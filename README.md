@@ -1,15 +1,13 @@
-## Hello World 👋
-
+## Hello World 👋  
 I am a passionate **Business Intelligence Architect & Developer** with 8+ years of strong background in **data analytics** and **data visualization**.
 
 I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft ecosystem (**Power Automate**, **Power Apps**, **SharePoint**, **Excel w/ VBA**) to architect and implement long-term, scalable business solutions.
 
 🏆 **2× Data Challenge Winner**
-
 - [Maven Coffee Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7180929040424345600/)
 - [Maven Slopes Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7044317380990164992/)
 
------
+---
 
 ## Top Expertise
 
@@ -21,7 +19,7 @@ I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft eco
 [<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=Microsoft%20SharePoint&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Excel_(VBA)-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />](#)
 
------
+---
 
 ## Additional Knowledge
 
@@ -35,7 +33,7 @@ I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft eco
 [<img src="https://img.shields.io/badge/Power_Query-4A8A2B?style=for-the-badge&logo=microsoft&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](#)
 
------
+---
 
 ## Contacts
 

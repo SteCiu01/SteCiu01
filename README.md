@@ -37,6 +37,6 @@ I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft eco
 
 ## Contacts
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stefano-ciurlia/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stefano-ciurlia/)
 
 <br><br>

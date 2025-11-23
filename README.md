@@ -4,8 +4,8 @@ I am a passionate **Business Intelligence Architect & Developer** with 8+ years 
 I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft ecosystem (**Power Automate**, **Power Apps**, **SharePoint**, **Excel w/ VBA**) to architect and implement long-term, scalable business solutions.
 
 🏆 **2× Data Challenge Winner**
-- [Maven Coffee Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7180929040424345600/)
-- [Maven Slopes Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7044317380990164992/)
+- [Maven Coffee Challenge](https://mavenanalytics.io/challenges/maven-slopes-challenge)
+- [Maven Slopes Challenge](https://mavenanalytics.io/challenges/maven-coffee-challenge)
 
 ---
 

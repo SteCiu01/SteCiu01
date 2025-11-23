@@ -1,4 +1,5 @@
-## Hello World 👋  
+# Hello World 👋  
+
 I am a passionate **Business Intelligence Architect & Developer** with 8+ years of strong background in **data analytics** and **data visualization**.
 
 I specialized in **Microsoft Fabric**, **Power BI**, and the entire Microsoft ecosystem (**Power Automate**, **Power Apps**, **SharePoint**, **Excel w/ VBA**) to architect and implement long-term, scalable business solutions.
@@ -13,14 +14,14 @@ I also like to take part in some data challlenges, from time to time, and I am p
 - [Maven Coffee Challenge](https://mavenanalytics.io/challenges/maven-slopes-challenge)
 - [Maven Slopes Challenge](https://mavenanalytics.io/challenges/maven-coffee-challenge)
 
-## Why this GitHub account?
+### Why this GitHub account?
 
 As the BI community out there is fantastic and you can really find any sort of resources when you need, I decided to create this space where I can give back to the community. I will not be posting new contents every day or week; my concept here is that whenever I do a personal project, or I do something at work that I believe is interesting to be shared (a new viz technique, a process automation, an interesting workaround, etc.) , I will put it here. 
 I will also share sample codes and step-by-step guides so everyone will be able to replicate what I am doing.
 
 ---
 
-## Top Expertise
+### Top Expertise
 
 ![Solutions Architecture](https://img.shields.io/badge/Solutions_Architecture-black?style=for-the-badge&logoColor=white)
 ![BI Engeneering](https://img.shields.io/badge/BI_Engeneering-grey?style=for-the-badge&logoColor=grey)
@@ -34,7 +35,7 @@ I will also share sample codes and step-by-step guides so everyone will be able 
 
 ---
 
-## Additional Knowledge
+### Additional Knowledge
 
 ![Access Management](https://img.shields.io/badge/Access_Management-grey?style=for-the-badge&logoColor=grey)
 ![Data Security](https://img.shields.io/badge/Data_Security-black?style=for-the-badge&logoColor=black)

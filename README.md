@@ -14,10 +14,10 @@ I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft eco
 [<img src="https://img.shields.io/badge/Solutions_Architecture-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Microsoft_Fabric-1B9E77?style=for-the-badge&logo=microsoft&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />](#)
-[<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft%20power%20automate&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft%20powerapps&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=Power%20Automate&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=Power%20Apps&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=Microsoft%20SharePoint&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/Excel_(VBA)-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />](#)
 
 ---
 
@@ -37,6 +37,6 @@ I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft eco
 
 ## Contacts
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stefano-ciurlia/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stefano-ciurlia/)
 
 <br><br>

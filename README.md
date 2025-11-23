@@ -11,7 +11,8 @@ I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft eco
 
 ## Top Expertise
 
-![Solutions Architecture](https://img.shields.io/badge/Solutions_Architecture-5E5E5E?style=for-the-badge&logoColor=white)
+![Solutions Architecture](https://img.shields.io/badge/Solutions_Architecture-black?style=for-the-badge&logoColor=white)
+![BI Engeneering](https://img.shields.io/badge/Access_Management-grey?style=for-the-badge&logoColor=grey)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1B9E77?style=for-the-badge&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logoColor=white)
@@ -23,8 +24,9 @@ I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft eco
 
 ## Additional Knowledge
 
-![Access Management](https://img.shields.io/badge/Access_Management-EB5424?style=for-the-badge&logoColor=white)
-![Data Security](https://img.shields.io/badge/Data_Security-DD0031?style=for-the-badge&logoColor=white)
+![ETL](https://img.shields.io/badge/Access_Management-4A8A2B?style=for-the-badge&logoColor=grey)
+![Access Management](https://img.shields.io/badge/Access_Management-grey?style=for-the-badge&logoColor=grey)
+![Data Security](https://img.shields.io/badge/Data_Security-black?style=for-the-badge&logoColor=black)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logoColor=white)

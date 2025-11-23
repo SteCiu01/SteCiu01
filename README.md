@@ -14,12 +14,10 @@ I also like to take part in some data challlenges, from time to time, and I am p
 - [Maven Coffee Challenge](https://mavenanalytics.io/challenges/maven-slopes-challenge)
 - [Maven Slopes Challenge](https://mavenanalytics.io/challenges/maven-coffee-challenge)
 
-**Why this GitHub account?**
+<br>**Why this GitHub account?**
 
 As the BI community out there is fantastic and you can really find any sort of resources when you need, I decided to create this space where I can give back to the community. I will not be posting new contents every day or week; my concept here is that whenever I do a personal project, or I do something at work that I believe is interesting to be shared (a new viz technique, a process automation, an interesting workaround, etc.) , I will put it here. 
 I will also share sample codes and step-by-step guides so everyone will be able to replicate what I am doing.
-
----
 
 ### Top Expertise
 
@@ -33,8 +31,6 @@ I will also share sample codes and step-by-step guides so everyone will be able 
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logoColor=white)
 ![Excel (VBA)](https://img.shields.io/badge/Excel_(VBA)-217346?style=for-the-badge&logoColor=white)
 
----
-
 ### Additional Knowledge
 
 ![Access Management](https://img.shields.io/badge/Access_Management-grey?style=for-the-badge&logoColor=grey)
@@ -46,8 +42,6 @@ I will also share sample codes and step-by-step guides so everyone will be able 
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-4A8A2B?style=for-the-badge&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white)
-
----
 
 ## Contacts
 

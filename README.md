@@ -24,7 +24,7 @@ I specialize in **Microsoft Fabric**, **Power BI**, and the entire Microsoft eco
 
 ## Additional Knowledge
 
-![ETL](https://img.shields.io/badge/Access_Management-4A8A2B?style=for-the-badge&logoColor=grey)
+![ETL](https://img.shields.io/badge/ETL-217346?style=for-the-badge&logoColor=grey)
 ![Access Management](https://img.shields.io/badge/Access_Management-grey?style=for-the-badge&logoColor=grey)
 ![Data Security](https://img.shields.io/badge/Data_Security-black?style=for-the-badge&logoColor=black)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logoColor=white)

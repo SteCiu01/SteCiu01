@@ -1,4 +1,4 @@
-## Hello fellow data enthusiast 👋  <br>
+## Hello, fellow data enthusiasts! 👋  <br>
 
 I am a passionate **Business Intelligence Architect & Developer** with 8+ years of strong background in **data analytics** and **data visualization**.
 

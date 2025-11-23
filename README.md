@@ -1,4 +1,4 @@
-# Hello World 👋  
+## Hello World 👋  
 
 I am a passionate **Business Intelligence Architect & Developer** with 8+ years of strong background in **data analytics** and **data visualization**.
 
@@ -19,9 +19,9 @@ I also like to take part in some data challlenges, from time to time, and I am p
 As the BI community out there is fantastic and you can really find any sort of resources when you need, I decided to create this space where I can give back to the community. I will not be posting new contents every day or week; my concept here is that whenever I do a personal project, or I do something at work that I believe is interesting to be shared (a new viz technique, a process automation, an interesting workaround, etc.) , I will put it here. 
 I will also share sample codes and step-by-step guides so everyone will be able to replicate what I am doing.
 
---
+---
 
-### Top Expertise
+#### Top Expertise
 
 ![Solutions Architecture](https://img.shields.io/badge/Solutions_Architecture-black?style=for-the-badge&logoColor=white)
 ![BI Engeneering](https://img.shields.io/badge/BI_Engeneering-grey?style=for-the-badge&logoColor=grey)
@@ -33,9 +33,9 @@ I will also share sample codes and step-by-step guides so everyone will be able 
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logoColor=white)
 ![Excel (VBA)](https://img.shields.io/badge/Excel_(VBA)-217346?style=for-the-badge&logoColor=white)
 
---
+---
 
-### Additional Knowledge
+#### Additional Knowledge
 
 ![Access Management](https://img.shields.io/badge/Access_Management-grey?style=for-the-badge&logoColor=grey)
 ![Data Security](https://img.shields.io/badge/Data_Security-black?style=for-the-badge&logoColor=black)
@@ -47,8 +47,8 @@ I will also share sample codes and step-by-step guides so everyone will be able 
 ![Power Query](https://img.shields.io/badge/Power_Query-4A8A2B?style=for-the-badge&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white)
 
---
+---
 
-## Contacts
+#### Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-ciurlia/)

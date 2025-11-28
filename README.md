@@ -18,9 +18,12 @@ I also like to take part in some data challlenges, from time to time, and I am p
 
 As the BI community out there is fantastic and you can really find any sort of resources when you need, I decided to create this space where I can give back to the community. 
 
-I will not be posting new contents every day or week; my concept here is that whenever I do a personal project, or I do something at work that I believe is interesting to be shared (a new viz technique, a process automation, an interesting workaround, etc.) , I will put it here. 
+I will not be posting new contents every day or week; my concept here is that whenever I do a personal project, or I do something at work that I believe is interesting to be shared (a new viz technique, a process automation, an interesting workaround, etc.) , I will put it here. I will also share sample codes and step-by-step guides so everyone will be able to replicate what I am doing.
+<br><br>
 
-I will also share sample codes and step-by-step guides so everyone will be able to replicate what I am doing.
+Major Topics I will talk about:   
+
+<img width=20% alt="image" src="https://github.com/user-attachments/assets/e9e20e25-a57a-4593-aa8f-e817b8525e5a" />
 
 ---
 

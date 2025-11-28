@@ -2,7 +2,7 @@
 
 I am a passionate **Business Intelligence Architect & Developer** with 8+ years of strong background in **data analytics** and **data visualization**.
 
-I specialized in **Microsoft Fabric**, **Power BI**, and the entire Microsoft ecosystem (**Power Automate**, **Power Apps**, **SharePoint**, **Excel w/ VBA**) to architect and implement long-term, scalable business solutions.
+I am specialized in **Microsoft Fabric**, **Power BI** and the whole Microsoft tools ecosystem (**Power Automate, Power Apps, SharePoint, Excel w/ VBA**) that I leverage to architect and implement long term solutions.
  
 I started my career as analytical data consultant in the market research industry where I worked for 4 years. Later I moved to a more BI role in the internet-services related industry, for 2.5 years, where I started to become really passionate about Power BI and its uses behind data visualization. 
 

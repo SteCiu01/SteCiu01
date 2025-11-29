@@ -23,7 +23,7 @@ I will not be posting new contents every day or week; my concept here is that wh
 
 Major Topics I will talk about:   
 
-<img width=20% alt="image" src="https://github.com/user-attachments/assets/e9e20e25-a57a-4593-aa8f-e817b8525e5a" />
+<img width=25% alt="image" src="https://github.com/user-attachments/assets/e9e20e25-a57a-4593-aa8f-e817b8525e5a" />
 
 ---
 

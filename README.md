@@ -6,7 +6,7 @@ I am specialized in **Microsoft Fabric**, **Power BI** and the whole Microsoft t
  
 I started my career as analytical data consultant in the market research industry where I worked for 4 years. Later I moved to a more BI role in the internet-services related industry, for 2.5 years, where I started to become really passionate about Power BI and its uses behind data visualization. 
 
-Now I am Data Scientist Manager in Mastercard where I am contributing in creating for my department: the data infrastructure in Fabric, the reporting infrastructure with Power BI and several operational systems, combining Power BI with Power Automate and Power Apps. Here I am elevating my skills as I need to combine technical/analytical knowledge with strategical thinking for designing and developing the solutions.
+Now I am Business intelligence solutions architect in the Mastercard Global Treasury team where I designed and led the creation of the department’s BI infrastructure. 
 
 I also like to take part in some data challlenges, from time to time, and I am proud of having obtained some good results.
 

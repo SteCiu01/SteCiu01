@@ -21,7 +21,7 @@ From time to time I like to take part in data challenges, and I am proud of havi
 
 The BI community is fantastic — you can find resources for almost anything. This space is my way of giving back.
 
-I won’t post on a fixed schedule. Instead, whenever I work on something genuinely interesting — a new viz technique, a process automation, a useful workaround — I’ll document it here with sample code and step-by-step guides so anyone can replicate it.
+I don't post on a fixed schedule. Whenever I solve something genuinely interesting at work or on a personal project — a tricky DAX pattern, a new viz technique, a process automation, a useful workaround — I document it here with sample code and step-by-step guides so anyone can replicate it. Everything here has been battle-tested in production before it gets shared.
 
 -----
 

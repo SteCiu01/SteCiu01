@@ -2,7 +2,7 @@
 
 I’m a **Business Intelligence Architect & Developer** with 8+ years of experience in **data analytics** and **data visualization**, specializing in **Microsoft Fabric**, **Power BI**, and the broader Microsoft ecosystem — including Power Automate, Power Apps, SharePoint, and Excel with VBA.
 
-I started my career as an analytical consultant in the market research industry, then moved into a dedicated BI role in the internet services sector, where my passion for Power BI really took off. Today, I work as a **BI Solutions Architect at Mastercard’s Global Treasury team**, where I designed and led the build-out of the department’s entire BI infrastructure.
+I started my career as an analytical consultant in the market research industry, then moved into a dedicated BI role in the internet services sector, where my passion for Power BI really took off. Today, I work as a **BI Solutions Architect at Mastercard’s Global Treasury team**, where I designed and led the build-out of the department’s BI infrastructure.
 
 -----
 

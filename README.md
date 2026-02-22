@@ -38,14 +38,6 @@ I won’t post on a fixed schedule. Instead, whenever I work on something genuin
 
 ### My Core Domain
 
-*Topics I live in daily and love to write about*
-
-![BI Solutions Architecture](https://img.shields.io/badge/BI_Solutions_Architecture-1e293b?style=for-the-badge&logoColor=white) ![BI Engineering](https://img.shields.io/badge/BI_Engineering-1e293b?style=for-the-badge&logoColor=white) ![ETL & Data Pipelines](https://img.shields.io/badge/ETL_%26_Data_Pipelines-1e293b?style=for-the-badge&logoColor=white) ![Data Automation](https://img.shields.io/badge/Data_Automation-1e293b?style=for-the-badge&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1e293b?style=for-the-badge&logoColor=white) ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-1e293b?style=for-the-badge&logoColor=white) ![Access Management](https://img.shields.io/badge/Access_Management-1e293b?style=for-the-badge&logoColor=white) ![Data Security](https://img.shields.io/badge/Data_Security-1e293b?style=for-the-badge&logoColor=white) ![Storytelling](https://img.shields.io/badge/Storytelling-1e293b?style=for-the-badge&logoColor=white)
-
------
-
-### My Core Domain
-
 _Topics I live in daily and love to write about_
 
 ![BI Solutions Architecture](https://img.shields.io/badge/BI_Solutions_Architecture-1e293b?style=for-the-badge&logoColor=white) ![BI Engineering](https://img.shields.io/badge/BI_Engineering-1e293b?style=for-the-badge&logoColor=white) ![ETL & Data Pipelines](https://img.shields.io/badge/ETL_%26_Data_Pipelines-1e293b?style=for-the-badge&logoColor=white) ![Data Automation](https://img.shields.io/badge/Data_Automation-1e293b?style=for-the-badge&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1e293b?style=for-the-badge&logoColor=white) ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-1e293b?style=for-the-badge&logoColor=white) ![Access Management](https://img.shields.io/badge/Access_Management-1e293b?style=for-the-badge&logoColor=white) ![Data Security](https://img.shields.io/badge/Data_Security-1e293b?style=for-the-badge&logoColor=white) ![Storytelling](https://img.shields.io/badge/Storytelling-1e293b?style=for-the-badge&logoColor=white)

@@ -6,7 +6,7 @@ I started my career as an analytical consultant in the market research industry,
 
 -----
 
-### 🏆 2× Maven Analytics Data Challenge Winner
+### 🏆 2× Data Challenge Winner
 
 From time to time I like to take part in data challenges, and I am proud of having obtained some notable results.
 

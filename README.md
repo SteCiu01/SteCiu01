@@ -55,3 +55,8 @@ _Technologies I use at my work, experiment on, and share tips about_
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-ciurlia/) [![Email](https://img.shields.io/badge/stefano.ciurlia01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefano.ciurlia01@gmail.com)
+
+---
+
+![Profile Visits](https://komarev.com/ghpvc/?username=SteCiu01&label=Profile%20Visits&color=blue&style=flat)
+

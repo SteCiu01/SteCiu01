@@ -60,3 +60,10 @@ _Technologies I use at my work, experiment on, and share tips about_
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=SteCiu01&label=Profile%20Visits&color=blue&style=flat)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteCiu01&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SteCiu01&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SteCiu01&theme=dark)
+
+

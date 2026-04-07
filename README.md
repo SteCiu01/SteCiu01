@@ -21,14 +21,14 @@ From time to time I like to take part in data challenges, and I am proud of havi
 
 The BI community is fantastic — you can find resources for almost anything. This space is my way of giving back.
 
-I don't post on a fixed schedule. Whenever I solve something genuinely interesting at work or on a personal project — a tricky DAX pattern, a new viz technique, a process automation, a useful workaround — I document it here with sample code and step-by-step guides so anyone can replicate it. Everything here has been battle-tested in production before it gets shared.
+I post when something is genuinely worth sharing — not on a schedule. Whenever I solve something interesting at work or on a personal project — a tricky DAX pattern, a new viz technique, a process automation, a useful workaround — I document it here with sample code and step-by-step guides so anyone can replicate it. Everything here has been battle-tested in production before it gets shared.
 
 -----
 
 ### 🗂️ Repositories
 
-|Repository                                                                        |Description                                                                                                            |
-|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Repository | Description |
+|--- | --- |
 |[Power BI Visual Templates](https://github.com/SteCiu01/Power-BI-Visual-Templates)|Collection of Power BI visual templates for custom visuals, using native visuals                                       |
 |[Power BI HTML Templates](https://github.com/SteCiu01/Power-BI-HTML-Templates)    |Collection of Power BI HTML templates for custom visuals, using HTML Content visual                                    |
 |[DAX & Data Modelling](https://github.com/SteCiu01/DAX-and-Data-Modelling)        |A production-tested collection of DAX codes, data modelling techniques, and best practices for Power BI semantic models|

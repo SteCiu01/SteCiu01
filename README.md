@@ -33,7 +33,7 @@ I post when something is genuinely worth sharing — not on a schedule. Whenever
 |[Power BI HTML Templates](https://github.com/SteCiu01/Power-BI-HTML-Templates)    |Collection of Power BI HTML templates for custom visuals, using HTML Content visual                                    |
 |[DAX & Data Modelling](https://github.com/SteCiu01/DAX-and-Data-Modelling)        |A production-tested collection of DAX codes, data modelling techniques, and best practices for Power BI semantic models|
 |[Power BI Reports](https://github.com/SteCiu01/Power-BI-Reports)                  |Collection of some of my Power BI reports I made for data challenges or as personal projects                           |
-|[Power Platform Workspace - One Click Setup](https://github.com/SteCiu01/Power-Platform-Workspace-One-Click-Setup) | Complete Power Platform development environment with an AI agent that handles authentication, environment sync, and solution management (pre-release) |
+|[Power Platform Workspace - One-Click Setup](https://github.com/SteCiu01/Power-Platform-Workspace-One-Click-Setup) | Complete Power Platform development environment with an AI agent that handles authentication, environment sync, and solution management (pre-release) |
 
 ---
 

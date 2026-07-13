@@ -1,10 +1,23 @@
+<div align="center">
+
 # Hello, fellow data enthusiasts! 👋
 
-I’m a **Business Intelligence Architect & Developer** with 8+ years of experience in **data analytics** and **data visualization**, specializing in **Microsoft Fabric**, **Power BI**, and the broader Microsoft ecosystem — Power Automate, Power Apps, Copilot Studio, SharePoint, and Excel  — to design and deliver end-to-end BI solutions that drive real business decisions.
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1B9E77?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIj48cGF0aCBmaWxsPSJ1cmwoI2kzYjQ3Y2EtYSkiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0ibTEuNTc0IDEwLjY1Ny0uMjA1Ljc1Yy0uMDc3LjI0LS4xODQuNTkzLS4yNDEuOTA2YTEuOTcgMS45NyAwIDAgMCAxLjYyMyAyLjY1NWMuMjc3LjA0LjU5LjAzOS45NDEtLjAxM2wxLjYxNS0uMjIzYy40MDYtLjA1Ni43MzktLjM0OS44NDctLjc0NGwxLjExLTQuMDh6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsPSJ1cmwoI2kzYjQ3Y2EtYikiIGQ9Ik0zLjE0OCAxMC44NWMtMS43MDEuMjY0LTIuMDUgMS41NDctMi4wNSAxLjU0N2wxLjYyOS01Ljk4NiA4LjUxNC0xLjE1Mi0xLjE2MSA0LjIxN2MtLjA2LjIyNi0uMjUuNC0uNDg2LjQzNWwtLjA0Ny4wMDgtNi40NDYuOTR6Ii8%2BPHBhdGggZmlsbD0idXJsKCNpM2I0N2NhLWMpIiBmaWxsLW9wYWNpdHk9Ii44IiBkPSJNMy4xNDggMTAuODVjLTEuNzAxLjI2NC0yLjA1IDEuNTQ3LTIuMDUgMS41NDdsMS42MjktNS45ODYgOC41MTQtMS4xNTItMS4xNjEgNC4yMTdjLS4wNi4yMjYtLjI1LjQtLjQ4Ni40MzVsLS4wNDcuMDA4LTYuNDQ2Ljk0eiIvPjxwYXRoIGZpbGw9InVybCgjaTNiNDdjYS1kKSIgZD0ibTQuMTE0IDcuMDMgOS40MjUtMS4zOTJhLjU2LjU2IDAgMCAwIC40NjMtLjQxbC45NzMtMy41MmEuNTU4LjU1OCAwIDAgMC0uNjA4LS43MDRsLTguOTk0IDEuMzNBMi41MSAyLjUxIDAgMCAwIDMuMzUgNC4xNWwtMS4yOTcgNC43Yy4yNi0uOTUuNDItMS41MjQgMi4wNi0xLjgyWiIvPjxwYXRoIGZpbGw9InVybCgjaTNiNDdjYS1lKSIgZD0ibTQuMTE0IDcuMDMgOS40MjUtMS4zOTJhLjU2LjU2IDAgMCAwIC40NjMtLjQxbC45NzMtMy41MmEuNTU4LjU1OCAwIDAgMC0uNjA4LS43MDRsLTguOTk0IDEuMzNBMi41MSAyLjUxIDAgMCAwIDMuMzUgNC4xNWwtMS4yOTcgNC43Yy4yNi0uOTUuNDItMS41MjQgMi4wNi0xLjgyWiIvPjxwYXRoIGZpbGw9InVybCgjaTNiNDdjYS1mKSIgZmlsbC1vcGFjaXR5PSIuNCIgZD0ibTQuMTE0IDcuMDMgOS40MjUtMS4zOTJhLjU2LjU2IDAgMCAwIC40NjMtLjQxbC45NzMtMy41MmEuNTU4LjU1OCAwIDAgMC0uNjA4LS43MDRsLTguOTk0IDEuMzNBMi41MSAyLjUxIDAgMCAwIDMuMzUgNC4xNWwtMS4yOTcgNC43Yy4yNi0uOTUuNDItMS41MjQgMi4wNi0xLjgyWiIvPjxwYXRoIGZpbGw9InVybCgjaTNiNDdjYS1nKSIgZD0iTTQuMTE0IDcuMDNjLTEuMzY1LjI0Ny0xLjcwNC42ODctMS45MyAxLjM3NmwtMS4wODYgMy45OTJzLjM0Ny0xLjI3IDIuMDI4LTEuNTQzbDYuNDIxLS45MzUuMDQ4LS4wMDhhLjYuNiAwIDAgMCAuNDg1LS40MzVsLjk1NS0zLjQ3eiIvPjxwYXRoIGZpbGw9InVybCgjaTNiNDdjYS1oKSIgZmlsbC1vcGFjaXR5PSIuMiIgZD0iTTQuMTE0IDcuMDNjLTEuMzY1LjI0Ny0xLjcwNC42ODctMS45MyAxLjM3NmwtMS4wODYgMy45OTJzLjM0Ny0xLjI3IDIuMDI4LTEuNTQzbDYuNDIxLS45MzUuMDQ4LS4wMDhhLjYuNiAwIDAgMCAuNDg1LS40MzVsLjk1NS0zLjQ3eiIvPjxwYXRoIGZpbGw9InVybCgjaTNiNDdjYS1pKSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMy4xMjYgMTAuODU2Yy0xLjQyLjIzLTEuODg3IDEuMTctMS45OTggMS40NTdhMS45NyAxLjk3IDAgMCAwIDEuNjIzIDIuNjU2cS40MTUuMDYyLjk0MS0uMDE0bDEuNjE1LS4yMjNjLjQwNi0uMDU2LjczOS0uMzQ5Ljg0Ny0uNzQ0bDEuMDEyLTMuNzJ6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImkzYjQ3Y2EtYSIgeDE9IjQuMTMyIiB4Mj0iNC4xMzIiIHkxPSIxNC45OTYiIHkyPSI5LjkwNyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iLjA1NiIgc3RvcC1jb2xvcj0iIzJBQUM5NCIvPjxzdG9wIG9mZnNldD0iLjE1NSIgc3RvcC1jb2xvcj0iIzIzOUM4NyIvPjxzdG9wIG9mZnNldD0iLjM3MiIgc3RvcC1jb2xvcj0iIzE3N0U3MSIvPjxzdG9wIG9mZnNldD0iLjU4OCIgc3RvcC1jb2xvcj0iIzBFNjk2MSIvPjxzdG9wIG9mZnNldD0iLjc5OSIgc3RvcC1jb2xvcj0iIzA5NUQ1NyIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzA4NTk1NCIvPjwvbGluZWFyR3JhZGllbnQ%2BPGxpbmVhckdyYWRpZW50IGlkPSJpM2I0N2NhLWIiIHgxPSIxMC41NjMiIHgyPSI1LjY0OSIgeTE9IjExLjMwMyIgeTI9IjUuOTU5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agb2Zmc2V0PSIuMDQyIiBzdG9wLWNvbG9yPSIjQUJFODhFIi8%2BPHN0b3Agb2Zmc2V0PSIuNTQ5IiBzdG9wLWNvbG9yPSIjMkFBQTkyIi8%2BPHN0b3Agb2Zmc2V0PSIuOTA2IiBzdG9wLWNvbG9yPSIjMTE3ODY1Ii8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImkzYjQ3Y2EtYyIgeDE9Ii0xLjUxMyIgeDI9IjMuMTY0IiB5MT0iMTEuMDQ0IiB5Mj0iOS40NDkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjNkFENkY5Ii8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNkFENkY5IiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iaTNiNDdjYS1kIiB4MT0iMi4wNTQiIHgyPSIxNC41MDIiIHkxPSI0LjkyNiIgeTI9IjQuOTI2IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agb2Zmc2V0PSIuMDQzIiBzdG9wLWNvbG9yPSIjMjVGRkQ0Ii8%2BPHN0b3Agb2Zmc2V0PSIuODc0IiBzdG9wLWNvbG9yPSIjNTVEREI5Ii8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImkzYjQ3Y2EtZSIgeDE9IjIuMDU0IiB4Mj0iMTMuMjY3IiB5MT0iMy4xODYiIHkyPSI4LjM5MyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiM2QUQ2RjkiLz48c3RvcCBvZmZzZXQ9Ii4yMyIgc3RvcC1jb2xvcj0iIzYwRTlEMCIvPjxzdG9wIG9mZnNldD0iLjY1MSIgc3RvcC1jb2xvcj0iIzZERTlCQiIvPjxzdG9wIG9mZnNldD0iLjk5NCIgc3RvcC1jb2xvcj0iI0FCRTg4RSIvPjwvbGluZWFyR3JhZGllbnQ%2BPGxpbmVhckdyYWRpZW50IGlkPSJpM2I0N2NhLWYiIHgxPSIzLjA5MiIgeDI9IjkuMTg5IiB5MT0iNC4xNiIgeTI9IjUuNTA5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIwIi8%2BPHN0b3Agb2Zmc2V0PSIuNDU5IiBzdG9wLWNvbG9yPSIjZmZmIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iaTNiNDdjYS1nIiB4MT0iNS4xMTMiIHgyPSI1LjI1OCIgeTE9IjkuMzgzIiB5Mj0iNS4xMDciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9Ii4yMDUiIHN0b3AtY29sb3I9IiMwNjNEM0IiIHN0b3Atb3BhY2l0eT0iMCIvPjxzdG9wIG9mZnNldD0iLjU4NiIgc3RvcC1jb2xvcj0iIzA2M0QzQiIgc3RvcC1vcGFjaXR5PSIuMjM3Ii8%2BPHN0b3Agb2Zmc2V0PSIuODcyIiBzdG9wLWNvbG9yPSIjMDYzRDNCIiBzdG9wLW9wYWNpdHk9Ii43NSIvPjwvbGluZWFyR3JhZGllbnQ%2BPGxpbmVhckdyYWRpZW50IGlkPSJpM2I0N2NhLWgiIHgxPSIuNTg0IiB4Mj0iNS43OTQiIHkxPSI4Ljk1OCIgeTI9IjkuOTM4IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIwIi8%2BPHN0b3Agb2Zmc2V0PSIuNDU5IiBzdG9wLWNvbG9yPSIjZmZmIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iaTNiNDdjYS1pIiB4MT0iNC4zNDciIHgyPSIzLjMzMSIgeTE9IjEzLjU4NiIgeTI9IjguNjE1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agb2Zmc2V0PSIuMDY0IiBzdG9wLWNvbG9yPSIjMDYzRDNCIiBzdG9wLW9wYWNpdHk9IjAiLz48c3RvcCBvZmZzZXQ9Ii4xNyIgc3RvcC1jb2xvcj0iIzA2M0QzQiIgc3RvcC1vcGFjaXR5PSIuMTM1Ii8%2BPHN0b3Agb2Zmc2V0PSIuNTYyIiBzdG9wLWNvbG9yPSIjMDYzRDNCIiBzdG9wLW9wYWNpdHk9Ii41OTkiLz48c3RvcCBvZmZzZXQ9Ii44NSIgc3RvcC1jb2xvcj0iIzA2M0QzQiIgc3RvcC1vcGFjaXR5PSIuOSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzA2M0QzQiIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjwvc3ZnPg%3D%3D)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMyAxLjUwMWEuNS41IDAgMCAwLS41LS41aC0zYS41LjUgMCAwIDAtLjUuNXYxLjVoLjVhMS41IDEuNSAwIDAgMSAxLjUgMS41djEwLjUwM2gxLjVhLjUuNSAwIDAgMCAuNS0uNXptLTMgM3YxMC41MDNIOFY3LjVBMS41IDEuNSAwIDAgMCA2LjUgNkg2VjQuNWEuNS41IDAgMCAxIC41LS41aDNhLjUuNSAwIDAgMSAuNS41Wm0tNi41IDIuNWEuNS41IDAgMCAwLS41LjV2Ny4wMDNhLjUuNSAwIDAgMCAuNS41SDdWNy41YS41LjUgMCAwIDAtLjUtLjVoLTNaIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4%3D)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzQzMDNfMTIzMCkiPgo8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDFfNDMwM18xMjMwKSI%2BCjxwYXRoIGQ9Ik0zOC4xMDI2IDcxLjY5MjFMMzEuNjUyOSA5MS4wNDE0QzMwLjExODggOTUuNjQzNiAyNC40ODIxIDk3LjMyOCAyMC42NzQ2IDk0LjMyMkw0Ljg5ODkxIDgxLjg2NzZDMS45NTkwOCA3OS41NDY2IDAuNzg5MzEgNzUuNjMyMSAxLjk3Mzc2IDcyLjA3ODdDMy4xODM4MSA2OC40NDg2IDYuNTgxMDIgNjYgMTAuNDA3NSA2Nkg0NkM0Mi40MTY5IDY2IDM5LjIzNTcgNjguMjkyOCAzOC4xMDI2IDcxLjY5MjFaIiBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXJfNDMwM18xMjMwKSIvPgo8cGF0aCBkPSJNMzguMTAyNiA3MS42OTIxTDMxLjY1MjkgOTEuMDQxNEMzMC4xMTg4IDk1LjY0MzYgMjQuNDgyMSA5Ny4zMjggMjAuNjc0NiA5NC4zMjJMNC44OTg5MSA4MS44Njc2QzEuOTU5MDggNzkuNTQ2NiAwLjc4OTMxIDc1LjYzMjEgMS45NzM3NiA3Mi4wNzg3QzMuMTgzODEgNjguNDQ4NiA2LjU4MTAyIDY2IDEwLjQwNzUgNjZINDZDNDIuNDE2OSA2NiAzOS4yMzU3IDY4LjI5MjggMzguMTAyNiA3MS42OTIxWiIgZmlsbD0idXJsKCNwYWludDFfcmFkaWFsXzQzMDNfMTIzMCkiLz4KPHBhdGggZD0iTTI0LjMyNDUgMzBINjAuODMzNUM3NC43ODA1IDMwIDg5LjE0NjYgNDAuMDIzNyA4NS4yODU4IDUxLjU4ODJMOTUuNDA2IDIxLjI3NDRDOTguMTkwOCAxMy4xMTUxIDg5LjQ1MTQgMCA2OS44MTg0IDBIMzAuMzI0NUMyNy43NDE5IDAgMjUuNDQ5MSAxLjY1MjU5IDI0LjYzMjQgNC4xMDI2NUwxOC42MzI0IDIyLjEwMjZDMTcuMzM3NCAyNS45ODc4IDIwLjIyOTIgMzAgMjQuMzI0NSAzMFoiIGZpbGw9InVybCgjcGFpbnQyX2xpbmVhcl80MzAzXzEyMzApIi8%2BCjxwYXRoIGQ9Ik0yNC4zMjQ1IDMwSDYwLjgzMzVDNzQuNzgwNSAzMCA4OS4xNDY2IDQwLjAyMzcgODUuMjg1OCA1MS41ODgyTDk1LjQwNiAyMS4yNzQ0Qzk4LjE5MDggMTMuMTE1MSA4OS40NTE0IDAgNjkuODE4NCAwSDMwLjMyNDVDMjcuNzQxOSAwIDI1LjQ0OTEgMS42NTI1OSAyNC42MzI0IDQuMTAyNjVMMTguNjMyNCAyMi4xMDI2QzE3LjMzNzQgMjUuOTg3OCAyMC4yMjkyIDMwIDI0LjMyNDUgMzBaIiBmaWxsPSJ1cmwoI3BhaW50M19saW5lYXJfNDMwM18xMjMwKSIvPgo8cGF0aCBkPSJNNTkuODMyNSA2NS45OTk5TDExLjIwNzYgNjUuOTk5OUM2LjkwNDQgNjUuOTk5OSAzLjA4Mzg3IDY4Ljc1MjggMS43MjE4MSA3Mi44MzQ0TDExLjcyMDggNDIuODM3NkMxMy4wODE5IDM4Ljc1NDIgMTYuOTAzMyAzNS45OTk5IDIxLjIwNzYgMzUuOTk5OUw2OS44MTQ3IDM1Ljk5OTlDODMuMjY2MiAzNS45OTk5IDkyLjYyMDUgMjkuNjY5NCA5NS41MDA3IDIxLjAyNjFMODUuMjkzOSA1MS42OTcyQzgyLjk1MiA1OC42OTM4IDc0LjQ5OTcgNjUuOTk5OSA1OS44MzI1IDY1Ljk5OTlaIiBmaWxsPSJ1cmwoI3BhaW50NF9saW5lYXJfNDMwM18xMjMwKSIvPgo8cGF0aCBkPSJNNTkuODMyNSA2NS45OTk5TDExLjIwNzYgNjUuOTk5OUM2LjkwNDQgNjUuOTk5OSAzLjA4Mzg3IDY4Ljc1MjggMS43MjE4MSA3Mi44MzQ0TDExLjcyMDggNDIuODM3NkMxMy4wODE5IDM4Ljc1NDIgMTYuOTAzMyAzNS45OTk5IDIxLjIwNzYgMzUuOTk5OUw2OS44MTQ3IDM1Ljk5OTlDODMuMjY2MiAzNS45OTk5IDkyLjYyMDUgMjkuNjY5NCA5NS41MDA3IDIxLjAyNjFMODUuMjkzOSA1MS42OTcyQzgyLjk1MiA1OC42OTM4IDc0LjQ5OTcgNjUuOTk5OSA1OS44MzI1IDY1Ljk5OTlaIiBmaWxsPSJ1cmwoI3BhaW50NV9saW5lYXJfNDMwM18xMjMwKSIvPgo8L2c%2BCjwvZz4KPGRlZnM%2BCjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhcl80MzAzXzEyMzAiIHgxPSIzLjk5OTAyIiB5MT0iNzAiIHgyPSIxNS45OTkiIHkyPSIxMDUuNSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgo8c3RvcCBzdG9wLWNvbG9yPSIjMzA5QzYxIi8%2BCjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzFFQzhCMCIvPgo8L2xpbmVhckdyYWRpZW50Pgo8cmFkaWFsR3JhZGllbnQgaWQ9InBhaW50MV9yYWRpYWxfNDMwM18xMjMwIiBjeD0iMCIgY3k9IjAiIHI9IjEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDI1LjQ5OTEgMTAyKSByb3RhdGUoLTkwKSBzY2FsZSg0NCA1NS4xNjMxKSI%2BCjxzdG9wIG9mZnNldD0iMC42MTU0NTEiIHN0b3AtY29sb3I9IiMxRTc5NEEiIHN0b3Atb3BhY2l0eT0iMCIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxRTc5NEEiLz4KPC9yYWRpYWxHcmFkaWVudD4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDJfbGluZWFyXzQzMDNfMTIzMCIgeDE9IjMwIiB5MT0iMTIuNSIgeDI9IjkwLjQxNTUiIHkyPSIyOS4xODUxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BCjxzdG9wIHN0b3AtY29sb3I9IiMyMEFDOUQiLz4KPHN0b3Agb2Zmc2V0PSIwLjU2ODQ0NyIgc3RvcC1jb2xvcj0iIzFBN0Y3QyIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwMjQxNjkiLz4KPC9saW5lYXJHcmFkaWVudD4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDNfbGluZWFyXzQzMDNfMTIzMCIgeDE9IjYwIiB5MT0iMS4wMDAwMiIgeDI9Ijc1LjUiIHkyPSI0Mi41IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BCjxzdG9wIHN0b3AtY29sb3I9IiMxQTdGN0MiIHN0b3Atb3BhY2l0eT0iMCIvPgo8c3RvcCBvZmZzZXQ9IjAuNTg4NjU5IiBzdG9wLWNvbG9yPSIjMDA0Njk1IiBzdG9wLW9wYWNpdHk9IjAuNiIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwMDM1ODAiLz4KPC9saW5lYXJHcmFkaWVudD4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDRfbGluZWFyXzQzMDNfMTIzMCIgeDE9IjE2IiB5MT0iNDAuOTk5OSIgeDI9Ijc0IiB5Mj0iNjUuNDk5OSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgo8c3RvcCBzdG9wLWNvbG9yPSIjNzZFQjk1Ii8%2BCjxzdG9wIG9mZnNldD0iMC4xNzkzMzQiIHN0b3AtY29sb3I9IiM1MkQxN0MiLz4KPHN0b3Agb2Zmc2V0PSIwLjcxMzk0NiIgc3RvcC1jb2xvcj0iIzIyOTE4QiIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwQzc0QTEiLz4KPC9saW5lYXJHcmFkaWVudD4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDVfbGluZWFyXzQzMDNfMTIzMCIgeDE9IjIxIiB5MT0iNTMuNDk5OSIgeDI9IjExLjUiIHkyPSI0OS40OTk5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BCjxzdG9wIHN0b3AtY29sb3I9IiM1MkQxN0MiIHN0b3Atb3BhY2l0eT0iMCIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNCMEYwOTgiLz4KPC9saW5lYXJHcmFkaWVudD4KPGNsaXBQYXRoIGlkPSJjbGlwMF80MzAzXzEyMzAiPgo8cmVjdCB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIGZpbGw9IndoaXRlIi8%2BCjwvY2xpcFBhdGg%2BCjxjbGlwUGF0aCBpZD0iY2xpcDFfNDMwM18xMjMwIj4KPHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiBmaWxsPSJ3aGl0ZSIvPgo8L2NsaXBQYXRoPgo8L2RlZnM%2BCjwvc3ZnPgo%3D)
+![Agentic AI Development](https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+</div>
+
+---
+
+I’m a **Business Intelligence Architect & Developer** with 8+ years of experience in **data analytics** and **data visualization**. I specialize in **Microsoft Fabric**, **Power BI**, and the broader Microsoft ecosystem — Power Automate, Power Apps, Copilot Studio, SharePoint, and Excel — to design and deliver end-to-end BI solutions that drive real business decisions.
 
 I started my career as an analytical consultant in the market research industry, then moved into a dedicated BI role in the internet services sector, where my passion for Power BI really took off. Today, I work as a **BI Solutions Architect at Mastercard’s Global Treasury team**, where I designed and led the build-out of the department’s BI infrastructure.
 
------
+My work now also extends into **agentic AI development** across two complementary areas: I use **GitHub Copilot, Codex, and Claude Code** — together with reusable agents, skills, MCP, and CLI tooling — to accelerate Fabric, Power Platform, app, and tool development; and I build **Copilot Studio agents** to automate operational processes and **Fabric Data Agents** to enable conversational access to governed enterprise data.
+
+---
 
 ### 🏆 2× Data Challenge Winner
 
@@ -25,34 +38,99 @@ I post when something is genuinely worth sharing — not on a schedule. Whenever
 
 -----
 
-### 🗂️ Repositories
+## 🗂️ Repositories
 
 | Repository | Description |
-|--- | --- |
-|[Power BI Visual Templates](https://github.com/SteCiu01/Power-BI-Visual-Templates)|Collection of Power BI visual templates for custom visuals, using native visuals                                       |
-|[Power BI HTML Templates](https://github.com/SteCiu01/Power-BI-HTML-Templates)    |Collection of Power BI HTML templates for custom visuals, using HTML Content visual                                    |
-|[DAX & Data Modelling](https://github.com/SteCiu01/DAX-and-Data-Modelling)        |A production-tested collection of DAX codes, data modelling techniques, and best practices for Power BI semantic models|
-|[Power BI Reports](https://github.com/SteCiu01/Power-BI-Reports)                  |Collection of some of my Power BI reports I made for data challenges or as personal projects                           |
-|[Power Platform Workspace: One-Click Setup](https://github.com/SteCiu01/Power-Platform-Workspace-One-Click-Setup) | Complete Power Platform development environment with an AI agent that handles authentication, environment sync, and solution management (pre-release) |
+|:---|:---|
+| [Fabric Agentic Workspace: One-Click Setup](https://github.com/SteCiu01/Fabric-Agentic-Workspace-One-Click-Setup) | Microsoft Fabric development workspace in VS Code with eight Copilot agents, embedded Fabric skills, curated skill sources, optional CLI/MCP tooling, and guidance for a governed DEV-to-PROD workflow. |
+| [Power Platform Workspace: One-Click Setup](https://github.com/SteCiu01/Power-Platform-Workspace-One-Click-Setup) | Complete Power Platform development environment with an AI agent that handles authentication, environment sync, and solution management. |
+| [DAX & Data Modelling](https://github.com/SteCiu01/DAX-and-Data-Modelling) | A production-tested collection of DAX codes, data modelling techniques, and best practices for Power BI semantic models. |
+| [Power BI Visual Templates](https://github.com/SteCiu01/Power-BI-Visual-Templates) | Collection of Power BI visual templates for custom visuals, using native visuals. |
+| [Power BI HTML Templates](https://github.com/SteCiu01/Power-BI-HTML-Templates) | Collection of Power BI HTML templates for custom visuals, using HTML Content visual. |
+| [Power BI Reports](https://github.com/SteCiu01/Power-BI-Reports) | Collection of some of my Power BI reports made for data challenges or as personal projects. |
 
 ---
 
-### My Core Domain
+## My Core Domain
 
-_Topics I live in daily and enjoy to write about_
+_Topics I work with daily and enjoy writing about_
 
-![BI Solutions Architecture](https://img.shields.io/badge/BI_Solutions_Architecture-475569?style=for-the-badge&logoColor=white) ![BI Engineering](https://img.shields.io/badge/BI_Engineering-475569?style=for-the-badge&logoColor=white) ![ETL & Data Pipelines](https://img.shields.io/badge/ETL_%26_Data_Pipelines-475569?style=for-the-badge&logoColor=white) ![Data Automation](https://img.shields.io/badge/Data_Automation-475569?style=for-the-badge&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-475569?style=for-the-badge&logoColor=white) ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-475569?style=for-the-badge&logoColor=white) ![Access Management](https://img.shields.io/badge/Access_Management-475569?style=for-the-badge&logoColor=white) ![Data Security](https://img.shields.io/badge/Data_Security-475569?style=for-the-badge&logoColor=white) ![Storytelling](https://img.shields.io/badge/Storytelling-475569?style=for-the-badge&logoColor=white)
+![BI Solutions Architecture](https://img.shields.io/badge/BI_Solutions_Architecture-475569?style=for-the-badge&logo=microsoft&logoColor=white)
+![BI Engineering](https://img.shields.io/badge/BI_Engineering-475569?style=for-the-badge&logo=apachespark&logoColor=white)
+![ETL & Data Pipelines](https://img.shields.io/badge/ETL_%26_Data_Pipelines-475569?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Semantic Modelling](https://img.shields.io/badge/Semantic_Modelling-475569?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-475569?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Automation](https://img.shields.io/badge/Data_Automation-475569?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Data Governance](https://img.shields.io/badge/Data_Governance-475569?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Security](https://img.shields.io/badge/Data_Security-475569?style=for-the-badge&logo=microsoft&logoColor=white)
+![Access Management](https://img.shields.io/badge/Access_Management-475569?style=for-the-badge&logo=microsoft&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-475569?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-475569?style=for-the-badge&logo=powerbi&logoColor=white)
+![Agentic AI Development](https://img.shields.io/badge/Agentic_AI_Development-475569?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![AI Agents Development](https://img.shields.io/badge/AI_Agents_Development-475569?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-475569?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-_Technologies I use at my work, experiment on, and share tips about_
+_Technologies I use at work, experiment with, and share tips about_
 
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1B9E77?style=for-the-badge&logo=microsoft&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Fabric Data Agents](https://img.shields.io/badge/Fabric_Data_Agents-1B9E77?style=for-the-badge&logo=microsoft&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Query M](https://img.shields.io/badge/Power_Query_(M)-4A8A2B?style=for-the-badge&logo=microsoft&logoColor=white) ![Excel VBA](https://img.shields.io/badge/Excel_(VBA)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+### Data Platforms, BI & Engineering
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1B9E77?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query M](https://img.shields.io/badge/Power_Query_(M)-4A8A2B?style=flat-square&logo=microsoft&logoColor=white)
+![Lakehouse](https://img.shields.io/badge/Lakehouse-1B9E77?style=flat-square&logo=microsoft&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-1B9E77?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Fabric SQL Database](https://img.shields.io/badge/Fabric_SQL_Database-1B9E77?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Fabric Data Pipelines](https://img.shields.io/badge/Fabric_Data_Pipelines-1B9E77?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgZmlsbD0iY3VycmVudENvbG9yIj48cGF0aCBmaWxsPSJ1cmwoI2lmMWQzZmQtYSkiIGQ9Ik0yIDQuNUEyLjUgMi41IDAgMCAxIDQuNSAyaDExQTIuNSAyLjUgMCAwIDEgMTggNC41djExYTIuNSAyLjUgMCAwIDEtMi41IDIuNWgtMTFBMi41IDIuNSAwIDAgMSAyIDE1LjV6Ii8%2BPHBhdGggZmlsbD0idXJsKCNpZjFkM2ZkLWIpIiBmaWxsLW9wYWNpdHk9Ii4yIiBkPSJNMiA0LjVBMi41IDIuNSAwIDAgMSA0LjUgMmgxMUEyLjUgMi41IDAgMCAxIDE4IDQuNXYxMWEyLjUgMi41IDAgMCAxLTIuNSAyLjVoLTExQTIuNSAyLjUgMCAwIDEgMiAxNS41eiIvPjxwYXRoIGZpbGw9InVybCgjaWYxZDNmZC1jKSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTUuNSAzaC0xMUExLjUgMS41IDAgMCAwIDMgNC41djExQTEuNSAxLjUgMCAwIDAgNC41IDE3aDExYTEuNSAxLjUgMCAwIDAgMS41LTEuNXYtMTFBMS41IDEuNSAwIDAgMCAxNS41IDNtLTExLTFBMi41IDIuNSAwIDAgMCAyIDQuNXYxMUEyLjUgMi41IDAgMCAwIDQuNSAxOGgxMWEyLjUgMi41IDAgMCAwIDIuNS0yLjV2LTExQTIuNSAyLjUgMCAwIDAgMTUuNSAyeiIgY2xpcC1ydWxlPSJldmVub2RkIi8%2BPHBhdGggZmlsbD0idXJsKCNpZjFkM2ZkLWQpIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik02LjUgNS41QTEuNSAxLjUgMCAwIDAgNSA3djZhMS41IDEuNSAwIDAgMCAzIDB2LS41aDR2LjVhMS41IDEuNSAwIDAgMCAzIDBWN2ExLjUgMS41IDAgMCAwLTMgMHYuNUg4VjdhMS41IDEuNSAwIDAgMC0xLjUtMS41TTcgMTNWN2EuNS41IDAgMCAwLTEgMHY2YS41LjUgMCAwIDAgMSAwbTYgMGEuNS41IDAgMCAwIDEgMFY3YS41LjUgMCAwIDAtMSAweiIgY2xpcC1ydWxlPSJldmVub2RkIi8%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJpZjFkM2ZkLWEiIHgxPSI2LjQ0NCIgeDI9IjguNDY4IiB5MT0iMiIgeTI9IjE4LjE5MiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiNmZmYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNFQkVCRUIiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iaWYxZDNmZC1jIiB4MT0iNy4xNjciIHgyPSI5LjMyMSIgeTE9IjIiIHkyPSIxOC4xNTciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjQkJCIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjODg4Ii8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImlmMWQzZmQtZCIgeDE9IjUiIHgyPSIxMy45NSIgeTE9IjUuNSIgeTI9IjE1LjQ0NSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiM0QkE0NDYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMzRjdEMzUiLz48L2xpbmVhckdyYWRpZW50PjxyYWRpYWxHcmFkaWVudCBpZD0iaWYxZDNmZC1iIiBjeD0iMCIgY3k9IjAiIHI9IjEiIGdyYWRpZW50VHJhbnNmb3JtPSJyb3RhdGUoNTYuMzEgLTIuMjA2IDkuNzI3KXNjYWxlKDE1LjIyMzQgMTMuMTc0MSkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9Ii4xNzciIHN0b3AtY29sb3I9IiNmZmYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNCOEI4QjgiLz48L3JhZGlhbEdyYWRpZW50PjwvZGVmcz48L3N2Zz4%3D)
+![Semantic Models](https://img.shields.io/badge/Semantic_Models-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### Power Platform & Automation
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-7C3AED?style=flat-square&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+
+### Web & Interface Development
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+### Agentic AI Development
+
+![Fabric Data Agents](https://img.shields.io/badge/Fabric_Data_Agents-7C3AED?style=flat-square&logo=microsoft&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-7C3AED?style=flat-square&logo=githubcopilot&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+![Custom Agents](https://img.shields.io/badge/Custom_Agents-7C3AED?style=flat-square&logo=githubcopilot&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-7C3AED?style=flat-square&logo=githubcopilot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Prompt & Context Engineering](https://img.shields.io/badge/Prompt_%26_Context_Engineering-7C3AED?style=flat-square&logo=githubcopilot&logoColor=white)
+![CLI Tooling](https://img.shields.io/badge/CLI_Tooling-4D4D4D?style=flat-square&logo=gnubash&logoColor=white)
+
+### Development & Delivery
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-ciurlia/) [![Email](https://img.shields.io/badge/stefano.ciurlia01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefano.ciurlia01@gmail.com)
+### Let’s connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-ciurlia/)
+[![Email](https://img.shields.io/badge/stefano.ciurlia01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefano.ciurlia01@gmail.com)
+
+</div>

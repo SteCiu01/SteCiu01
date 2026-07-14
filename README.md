@@ -11,7 +11,7 @@
 
 ---
 
-I’m a **Business Intelligence Architect & Developer** with 8+ years of experience in **data analytics** and **data visualization**. I specialize in **Microsoft Fabric**, **Power BI**, and the broader Microsoft ecosystem — Power Automate, Power Apps, Copilot Studio, SharePoint, and Excel — to design and deliver end-to-end BI solutions that drive real business decisions.
+I’m a **Business Intelligence Architect & Developer** with 9+ years of experience in **data analytics** and **data visualization**. I specialize in **Microsoft Fabric**, **Power BI**, and the broader Microsoft ecosystem — Power Automate, Power Apps, Copilot Studio, SharePoint, and Excel — to design and deliver end-to-end BI solutions that drive real business decisions.
 
 I started my career as an analytical consultant in the market research industry, then moved into a dedicated BI role in the internet services sector, where my passion for Power BI really took off. Today, I work as a **BI Solutions Architect at Mastercard’s Global Treasury team**, where I designed and led the build-out of the department’s BI infrastructure.
 

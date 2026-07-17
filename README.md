@@ -42,7 +42,7 @@ I post when something is genuinely worth sharing — not on a schedule. Whenever
 
 | Repository | Description |
 |:---|:---|
-| [Fabric Agentic Workspace: One-Click Setup](https://github.com/SteCiu01/Fabric-Agentic-Workspace-One-Click-Setup) | Microsoft Fabric development workspace in VS Code with eight Copilot agents, embedded Fabric skills, curated skill sources, optional CLI/MCP tooling, and guidance for a governed DEV-to-PROD workflow. |
+| [Fabric Agentic Workspace: One-Click Setup](https://github.com/SteCiu01/Fabric-Agentic-Workspace-One-Click-Setup) | One-click setup for a Microsoft Fabric & Power BI development workspace in VS Code: a 47-agent GitHub Copilot organisation with a strict coordinator, embedded Fabric skills, tool-aware CLI/MCP automation, and a governed DEV-to-PROD workflow. |
 | [Power Platform Workspace: One-Click Setup](https://github.com/SteCiu01/Power-Platform-Workspace-One-Click-Setup) | Complete Power Platform development environment with an AI agent that handles authentication, environment sync, and solution management. |
 | [DAX & Data Modelling](https://github.com/SteCiu01/DAX-and-Data-Modelling) | A production-tested collection of DAX codes, data modelling techniques, and best practices for Power BI semantic models. |
 | [Power BI Visual Templates](https://github.com/SteCiu01/Power-BI-Visual-Templates) | Collection of Power BI visual templates for custom visuals, using native visuals. |

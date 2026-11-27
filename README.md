@@ -38,6 +38,9 @@ Multi-agent development workspaces for Fabric and Power Platform, alongside expe
 
 ### Additional public repositories
 
+**[WOD Crew — Workout App](https://github.com/SteCiu01/WOD-Crew)**  
+A personal AI-assisted workout app for training with friends across countries, with shared WODs, timers, progress tracking, and a [Community Playground demo](https://wod-crew-community.stefano-ciurlia01.chatgpt.site).
+
 **[DAX & Data Modelling](https://github.com/SteCiu01/DAX-and-Data-Modelling)**  
 Reusable DAX patterns and semantic modelling techniques, including filter context, time intelligence, virtual tables and interactive controls.
 
